@@ -1,7 +1,7 @@
 //Uncomment this line on creating a translation file
 import { surveyLocalization } from "../surveyStrings";
 
-export var englishStrings = {
+export var japaneseStrings = {
   pagePrevText: "前",
   pageNextText: "次",
   completeText: "完了",
@@ -18,13 +18,13 @@ export var englishStrings = {
   optionsCaption: "選択してください...",
   value: "value",
   requiredError: "質問に回答してください。",
-  requiredErrorInPanel: "最低ひとつに回答してください。",
+  requiredErrorInPanel: "最低一つの質問に回答してください。",
   requiredInAllRowsError: "全ての質問に回答してください。",
   numericError: "値は数値でなければなりません。",
   textMinLength: "{0} 文字以上入力してください。",
   textMaxLength: "{0} 文字以下で入力してください。",
   textMinMaxLength: "{0} 文字以上 {1} 文字以下で入力してください。",
-  minRowCountError: "Please fill in at least {0} rows.",
+  minRowCountError: "最低 {0} 行を埋めてください。",
   minSelectError: "Please select at least {0} variants.",
   maxSelectError: "Please select no more than {0} variants.",
   numericMinMax:
